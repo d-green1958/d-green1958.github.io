@@ -41,3 +41,38 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* =========================
+   Custom font override
+   ========================= */
+
+/* Import coding-style font */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500&display=swap');
+
+/* Keep UI clean */
+body,
+.page,
+.page__content,
+.sidebar,
+.sidebar__right,
+.sidebar__left,
+.masthead,
+.masthead__menu,
+.site-title,
+.site-subtitle,
+.author__name,
+.author__bio,
+.nav__list,
+.archive__item-title,
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'JetBrains Mono', monospace !important;
+}
+
+.highlight-purple {
+  color: #a240e6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #a240e6;
+}
+
