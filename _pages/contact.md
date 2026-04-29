@@ -11,7 +11,7 @@ Please feel free to reach out to me! I am always happy to discuss ideas, problem
 - GitHub: https://github.com/d-green1958
 - LinkedIn: https://linkedin.com/in/dylan-m-green
 
-Alternatively I am based in the Thom Building in Oxford.
+Alternatively, you can contact me in person. I am currently based in the Thom Building in Oxford.
 
 
 <br />

@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "LaTeX CV Template"
+excerpt: "Here is the LaTeX code I used to make my CV. Please feel free to make use of it! <br/><img src='/files/singlecol.png' width='200'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Here is the LaTeX code I used to make my CV. Please feel free to make use of it! The code can be found in this [GitHub Repository](https://github.com/d-green1958/LaTeX-CV).
+
+<iframe 
+  src="/files/singlecol.pdf" 
+  width="100%" 
+  height="700px" 
+  style="border: none;">
+</iframe>
