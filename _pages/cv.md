@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my CV here: [📑 Single Column CV](/files/singlecol.pdf){:target="_blank"} or [📑 Double Column CV](/files/doublecol.pdf){:target="_blank"}.
+
 ## Education
 
 * **DPhil (PhD), Wind & Marine Energy Systems & Structures**

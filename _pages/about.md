@@ -9,7 +9,7 @@ redirect_from:
 <span style="font-size: 1.3em;">
 **Hi, I'm Dylan and welcome to my page! You'll be able to find the following:**
 - **Some details about me**
-- **Copies of slide decks**
+- **Copies of slide decks / presentations / publications**
 - **Information on my projects**
 - **Some blog posts**
 - **And lots more...**

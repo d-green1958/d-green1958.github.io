@@ -8,4 +8,4 @@ date: 2026-04-23
 location: "London, Uk"
 ---
 
-I presented my work at the Recent Advances in Turbulent Wind Farm Dynamics Colloquium 2026. This was an interesting peice of work based on the transport tube theory of Meyers & Meneveau. [📄 Download the slides](/files/RATWFDC-2026-ICL.pdf)
+I presented my work at the Recent Advances in Turbulent Wind Farm Dynamics Colloquium 2026. This was an interesting peice of work based on the transport tube theory of Meyers & Meneveau. [📄 Download the slides](/files/RATWFDC-2026-ICL.pdf) or [🌐 Open the slides in a new tab](/files/RATWFDC-2026-ICL.pdf){:target="_blank"}
